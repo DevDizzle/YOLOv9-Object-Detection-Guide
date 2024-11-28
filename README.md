@@ -24,16 +24,20 @@ Below is an example of the model's inference results on the test dataset:
 
 ## Acknowledgments
 
-We extend our gratitude to the following resources and contributors for their foundational work and assets:
+This project makes use of the following resources:
 
-1. **YOLOv9 Model Repository**: [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)  
-   For providing the YOLOv9 model and pre-trained weights.
+1. **YOLOv9 Repository**  
+   - Repository: [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9)  
+   - License: [GPL-3.0 License](https://github.com/WongKinYiu/yolov9/blob/main/LICENSE.md)
 
-2. **Training Notebook Inspiration**: [SkalskiP/yolov9](https://github.com/SkalskiP/yolov9.git)  
-   For their notebook that inspired this guide.
+2. **Fine-Tuning Notebook**  
+   - Author: [SkalskiP](https://github.com/SkalskiP/yolov9)  
+   - Notebook adapted for this project. Attribution as per their repository.
 
-3. **Dataset**: [Roboflow - El Señor de la Noche](https://universe.roboflow.com/pedro-pagan/el-senor-de-la-noche/dataset/2)  
-   The dataset used in this project is licensed under CC BY 4.0.
+3. **Roboflow Dataset**  
+   - Dataset: [El Señor de la Noche](https://universe.roboflow.com/pedro-pagan/el-senor-de-la-noche/dataset/2)  
+   - License: [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)  
+   - Changes made: Dataset combined and reformatted for YOLOv9 fine-tuning.
 
 ---
 
