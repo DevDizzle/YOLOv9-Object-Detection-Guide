@@ -39,7 +39,27 @@ We extend our gratitude to the following resources and contributors for their fo
 
 ## Getting Started
 
-### Clone the Repository
-```bash
-git clone https://github.com/DevDizzle/YOLOv9-Object-Detection-Guide.git
-cd YOLOv9-Object-Detection-Guide
+### Download the Notebook
+
+To get started with fine-tuning YOLOv9, download the notebook provided in this repository. The notebook contains all the necessary steps to:
+
+- Clone the YOLOv9 repository.
+- Prepare the dataset.
+- Fine-tune the YOLOv9 model.
+- Perform validation and inference.
+
+#### Steps to Get Started:
+
+1. **Download the Notebook**  
+   [Click here to download `fine_tuning_yolov9.ipynb`](https://github.com/DevDizzle/YOLOv9-Object-Detection-Guide/blob/main/fine_tuning_yolov9.ipynb).
+
+2. **Upload the Notebook to Google Colab**  
+   - Open [Google Colab](https://colab.research.google.com/).
+   - Click on **File > Upload Notebook** and select the downloaded notebook.
+
+3. **Run the Notebook**  
+   Follow the step-by-step instructions in the notebook to:
+   - Clone the YOLOv9 repository.
+   - Prepare and configure your dataset.
+   - Fine-tune the YOLOv9 model.
+   - Validate the model and perform inference on test images.
