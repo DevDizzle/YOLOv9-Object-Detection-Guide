@@ -14,6 +14,14 @@ This repository provides a structured approach to fine-tuning the YOLOv9 model f
 
 ---
 
+## Example Results
+
+Below is an example of the model's inference results on the test dataset:
+
+![Test Results](test-results.png)
+
+---
+
 ## Acknowledgments
 
 We extend our gratitude to the following resources and contributors for their foundational work and assets:
