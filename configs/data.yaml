@@ -1,0 +1,18 @@
+names:
+- black_ball
+- blue_ball
+- green_ball
+- greenbuoy
+- red_ball
+- redbuoy
+- yellow_ball
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: el-senor-de-la-noche
+  url: https://universe.roboflow.com/pedro-pagan/el-senor-de-la-noche/dataset/2
+  version: 2
+  workspace: pedro-pagan
+test: /content/yolov9/roboflow_dataset/test
+train: /content/yolov9/roboflow_dataset/train
+val: /content/yolov9/roboflow_dataset/valid
