@@ -1,4 +1,4 @@
-# YOLOv9 Fine-Tuning Guide
+# YOLOv9 Fine-Tuning Guide for Object Detection
 
 This repository provides a structured approach to fine-tuning the YOLOv9 model for custom object detection tasks. The included notebook and modular project structure aim to simplify the process for both beginners and advanced users.
 
